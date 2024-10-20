@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me adityawadekar255@gmail.com
+- 📫 How to reach me adityawadekar108@gmail.com
 
 <!---
 adityawadekar55/adityawadekar55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
